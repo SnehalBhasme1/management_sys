@@ -1,4 +1,4 @@
-Task Management System
+Event Management System
 
 🚀 Project Overview
 
